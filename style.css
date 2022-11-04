@@ -1,4 +1,6 @@
-
+#head{
+    background-color: black;
+}
 p{
     color:black;
     font-size: 30px;
@@ -16,6 +18,9 @@ p{
     padding-left: 20em;
     padding-bottom: 15em;
     padding-top: 15em;
+}
+h1{
+    padding-left: 0.5em;
 }
 
 
