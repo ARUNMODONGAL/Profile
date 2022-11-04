@@ -1,73 +1,80 @@
 
-header{
-    background-color: crimson;
-}
 p{
     color:black;
-    font-size: 20px;
+    font-size: 30px;
     float:left;
-    padding : 20px;
-    margin: 40px;
+    padding : 10px;
+    margin: 30px;
+}
+#tit{
+
+    margin-left:0%;
+    font-size: larger;
+    background-color: rgb(123, 0, 255);
+    width: 100%;
+    float: left;
+    padding-left: 20em;
+    padding-bottom: 15em;
+    padding-top: 15em;
 }
 
-#head{
-    background-color: darkslategrey;
-    margin: 50px solid black;
-    border-color: black;
-    border: 10px solid black;
-}
+
+
 .text{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
+    font-size: 30px;
+    color: rgb(12, 11, 11);
+    border: 5px;
+    background-color:none;
+    
 
 }
-#content{
-    width: 100%;
-    height: 50%;
-    font-size:50px;
-    float:left;
-    padding-left: 30%;
-    background-color:white;
-}
+
+
+
 #about{
     
     width: 100%;
-    height: 50%;
+    height: 30%;
     font-size: xx-large;
     float:left;
     padding-left: 30%;
+    padding-bottom: 10em;
     background-color:greenyellow;
+    padding-top:10em;
+
 
 }
 #skills{
     
     width: 100%;
-    height: 50%;
+    height: 30%;
     font-size: xx-large;
     float:left;
     padding-left: 30%;
     background-color: blueviolet;
+    padding-bottom: 10em;
+    padding-top: 10em;
 }
 #exp{
     width: 100%;
-    height: 50%;
+    height: 30%;
     font-size: xx-large;
     float:left;
     padding-left: 30%;
-    
+    padding-bottom: 10em;
+    padding-top: 10em;
     background-color: darkcyan;
 
 }
 #cont{
     width: 100%;
-    height: 50%;
+    height: 30%;
     font-size: xx-large;
     float:left;
     padding-left: 30%;
     background-color: deepskyblue;
+    padding-bottom: 10em;
+    padding-top:10em;
 }
-#title{
-    width: 100%;
-    height: 50%;
 
-}
